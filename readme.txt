@@ -8,3 +8,4 @@ Git has a mutable index called stage
 git tracks changes of files
 
 creating a new branch is quick & simple.
+storaged the branch while it has been commit.
